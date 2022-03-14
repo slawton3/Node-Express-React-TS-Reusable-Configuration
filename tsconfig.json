@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "strictPropertyInitialization": false,
+      "baseUrl": ".",
+      "paths": {
+        "*": ["node_modules/*"]
+      },
+    },
+    "include": [
+        "**.ts"
+    ],
+    "exclude": [
+        "./client"
+      ]
+  }

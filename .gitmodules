@@ -1,0 +1,3 @@
+[submodule "Client-Reusable"]
+	path = Client-Reusable
+	url = https://github.com/slawton3/Client-Reusable.git
